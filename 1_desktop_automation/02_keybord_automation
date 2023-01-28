@@ -1,0 +1,9 @@
+import pyautogui
+import pyperclip
+#pyautogui.write('startcoding', interval=0.25)
+
+# pyautogui.press('enter')
+# pyautogui.press('up')
+
+pyautogui.hotkey('ctrl', 'c')
+pyperclip.copy('한글')

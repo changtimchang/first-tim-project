@@ -1,0 +1,7 @@
+import pyautogui
+
+pyautogui.alert('are you ready?')
+pyautogui.moveTo(500,500,1)
+pyautogui.moveTo(1000,500,1)
+pyautogui.moveTo(500,500,1)
+pyautogui.moveTo(1000,500,1)
